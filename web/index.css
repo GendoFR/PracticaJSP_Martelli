@@ -1,0 +1,24 @@
+table{
+    margin-top:15px ;    
+    text-align: center;
+    border-collapse: collapse;
+    background-color: lightcoral;
+}
+
+h3{
+    margin: auto;
+    justify-content: center;
+}
+
+form{
+    justify-content: center;
+    margin: auto;
+    width: 30%;
+    margin-top:15px ;
+}
+
+container2{
+    text-align: center;
+    border-collapse: collapse;
+    background-color: lightcoral;
+}
